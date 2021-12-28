@@ -1,0 +1,10 @@
+fall\lampdevs\rest_meteo\entities\Localite.class
+fall\lampdevs\rest_meteo\entities\Meteo.class
+fall\lampdevs\rest_meteo\services\MeteoResource.class
+fall\lampdevs\rest_meteo\services\InitMeteo.class
+fall\lampdevs\rest_meteo\services\facades\MeteoFacade.class
+fall\lampdevs\rest_meteo\services\InitLocalite.class
+fall\lampdevs\rest_meteo\services\facades\LocaliteFacade.class
+fall\lampdevs\rest_meteo\services\facades\AbstractFacade.class
+fall\lampdevs\rest_meteo\services\LocatiteResource.class
+fall\lampdevs\rest_meteo\JAXRSConfiguration.class
